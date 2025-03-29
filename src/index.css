@@ -1,0 +1,11 @@
+@import "tailwindcss";
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+  //color-scheme: light dark;
+}
+
+a.active {
+  color: #6e11b1;
+}
